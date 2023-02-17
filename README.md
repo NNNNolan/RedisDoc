@@ -1,4 +1,3 @@
-依次
 
 # Redis 集群 windows下安装
 
@@ -8,7 +7,7 @@
 
     **https://github.com/tporadowski/redis/releases**
 
-    没有科学上网的话 使用一下地址下载
+    没有科学上网的话 使用一下地址下
 
     **https://ghproxy.com/https://github.com/tporadowski/redis/releases/download/v5.0.14.1/Redis-x64-5.0.14.1.zip**
 
@@ -21,6 +20,8 @@
     由于是没有那么内存搭建6台虚拟机,使用本机模拟,所以这一步相当于在一个文件夹算一台物理机 启动一个redis服务，搭建三主三从 redis集群服务
 
     将刚刚下载好的zip 复制到Redis文件夹解压。然后复制6份，修改文件夹名称 我这里已端口为名称如下
+
+
 
     ![1676620552400](image/安装/1676620552400.png)
 
